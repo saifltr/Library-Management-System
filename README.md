@@ -2,6 +2,17 @@
 
 This project implements a command-line Library Management System in Python. It manages books, users, and checkouts through an interactive interface.
 
+## Features
+
+- **Book Management**: Add, update, delete, list, and search books by title, author, or ISBN.
+- **User Management**: Add, update, delete, list, and search users by name or ID.
+- **Checkout System**: Check out and return books, with automatic availability tracking.
+- **Data Persistence**: Flexible storage system supporting both file-based (JSON) and in-memory storage.
+- **Error Handling**: Comprehensive input validation and error management.
+- **Colorful Interface**: User-friendly CLI with color-coded outputs for better readability.
+
+
+
 ## Project Structure
 ```
 ├── library
