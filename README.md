@@ -27,6 +27,14 @@ This project implements a command-line Library Management System in Python. It m
 To get a local copy of this project and install dependencies:
 
 ```bash
-git clone https://github.com/saifltr/
-Library-Management-System.git
+git clone https://github.com/saifltr/Library-Management-System.git
+```
+```bash
+cd Library-Management-System.git
+```
+
+Install the dependencies
+
+```bash
+pip install -r requirements.txt
 ```
