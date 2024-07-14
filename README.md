@@ -58,8 +58,8 @@ python main.py
 ```
 
 Main Features
-- Manage Books: Add, update, delete, list, search, checkout, and return books.
-- Manage Users: Add, update, delete, list, and search users.
+- **Manage Books:** Add, update, delete, list, search, checkout, and return books.
+- **Manage Users:** Add, update, delete, list, and search users.
 
 # Testing
 Unit tests are provided in the tests directory using pytest. To run tests and generate coverage reports:
@@ -82,3 +82,16 @@ coverage run -m pytest
 ```bash
 coverage report
 ```
+
+For detailed HTML Report
+```bash
+coverage html
+```
+
+#Design Principles
+- **Object-Oriented Design:** Utilizes classes and inheritance for clear structure and code reuse.
+- **Separation of Concerns:** Distinct modules for different functionalities (books, users, checkouts).
+- **SOLID Principles:** Adheres to Single Responsibility, Open-Closed, and other SOLID principles.
+- **DRY (Don't Repeat Yourself):** Minimizes code duplication through well-structured classes and methods.
+
+
