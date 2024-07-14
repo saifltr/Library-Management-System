@@ -30,7 +30,7 @@ To get a local copy of this project and install dependencies:
 git clone https://github.com/saifltr/Library-Management-System.git
 ```
 ```bash
-cd Library-Management-System.git
+cd Library-Management-System
 ```
 
 Install the dependencies
