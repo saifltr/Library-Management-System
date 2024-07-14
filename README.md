@@ -38,3 +38,14 @@ Install the dependencies
 ```bash
 pip install -r requirements.txt
 ```
+
+# Usage
+Run the main script to start the Library Management System:
+
+``` bash
+python main.py
+```
+
+Main Features
+- Manage Books: Add, update, delete, list, search, checkout, and return books.
+- Manage Users: Add, update, delete, list, and search users.
