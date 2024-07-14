@@ -49,3 +49,25 @@ python main.py
 Main Features
 - Manage Books: Add, update, delete, list, search, checkout, and return books.
 - Manage Users: Add, update, delete, list, and search users.
+
+# Testing
+Unit tests are provided in the tests directory using pytest. To run tests and generate coverage reports:
+
+To run the entire test suites:
+```bash
+python run_tests.py
+```
+
+To run the tests using pytest:
+```bash
+pytest
+```
+
+To get the coverage report of tests:
+```bash
+coverage run -m pytest
+```
+
+```bash
+coverage report
+```
