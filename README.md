@@ -88,7 +88,7 @@ For detailed HTML Report
 coverage html
 ```
 
-#Design Principles
+##Design Principles
 - **Object-Oriented Design:** Utilizes classes and inheritance for clear structure and code reuse.
 - **Separation of Concerns:** Distinct modules for different functionalities (books, users, checkouts).
 - **SOLID Principles:** Adheres to Single Responsibility, Open-Closed, and other SOLID principles.
